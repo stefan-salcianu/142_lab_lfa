@@ -1,0 +1,6 @@
+Initial states (after ε-closure): {'q0', 'q4', 'q1'}
+After input 'a': {'q2', 'q4'}
+After input 'b': {'q5', 'q2'}
+After input 'c': {'q5', 'q2'}
+After input 'a': {'q5', 'q3', 'q7'}
+Accepted

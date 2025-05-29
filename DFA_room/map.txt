@@ -1,0 +1,16 @@
+Games played:10000
+ Games won:35
+Player Moves to Hollway
+Player Moves to Secret Room
+Player Moves to Secret Room.spoon
+Player Moves to Hollway.spoon
+Player Moves to Library.spoon
+Player Moves to Exit.spoon
+Player Wins!
+Player Moves to Hollway
+Player Moves to Secret Room
+Player Moves to Secret Room.spoon
+Player Moves to Hollway.spoon
+Player Moves to Library.spoon
+Player Moves to Exit.spoon
+Player Wins!

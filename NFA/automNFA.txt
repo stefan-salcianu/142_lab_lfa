@@ -1,0 +1,5 @@
+alphabet:a,b,c
+nodes:q0,q1,q2,q3,q4,q5,q6,q7
+rules:
+start:q0
+accept:q7

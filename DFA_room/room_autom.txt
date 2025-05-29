@@ -1,0 +1,5 @@
+alphabet:up,right,down,left,pick
+nodes:Entrance,Hollway,Secret Room,Kitchen,Library,Exit,Entrance.spoon,Library.spoon,Hollway.spoon,Secret Room.spoon,Kitchen.spoon,Exit.spoon
+rules:Entrance-up-Hollway,Hollway-down-Entrance,Hollway-up-Secret Room,Hollway-left-Kitchen,Hollway-right-Library,Secret Room-down-Hollway,Kitchen-right-Hollway,Library-left-Hollway,Library-up-Exit,Exit-down-Library,Entrance.spoon-up-Hollway.spoon,Hollway.spoon-down-Entrance.spoon,Hollway.spoon-up-Secret Room.spoon,Hollway.spoon-left-Kitchen.spoon,Hollway.spoon-right-Library.spoon,Secret Room.spoon-down-Hollway.spoon,Kitchen.spoon-right-Hollway.spoon,Library.spoon-left-Hollway.spoon,Library.spoon-up-Exit.spoon,Exit.spoon-down-Library.spoon,Secret Room-pick-Secret Room.spoon
+start:Entrance
+accept:Exit.spoon

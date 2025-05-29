@@ -1,0 +1,10 @@
+alphabet: a, b, c, _
+blank: _
+states: q0, q1, q2, q3, q4, q5, q6, q7
+start: q0
+accept: q3
+tape: _ _ _ _ _
+transitions:
+q0, _ -> q1, 1, R
+q1, _ -> q2, 0, R
+q2, _ -> q3, #, R
