@@ -21,7 +21,6 @@ It supports both predefined inputs and randomized tests. Perfect for exploring f
 -Randomized test case generation
 
 ## 📁 Project Structure
-## 📁 Project Structure
 
 ```text
 LbForm&Autom/
