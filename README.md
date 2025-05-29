@@ -21,39 +21,7 @@ It supports both predefined inputs and randomized tests. Perfect for exploring f
 -Randomized test case generation
 
 ## 📁 Project Structure
-LbForm&Autom/
-│
-├── DFA_room/ # DFA simulation in a room-based game context
-│ ├── emulator.py # Entry point: user chooses manual/random execution
-│ ├── map.txt # Output log for DFA results
-│ ├── random_input.py # Random input generator for DFA game
-│ ├── room_autom.txt # Configuration file (states, transitions, etc.)
-│ ├── room_gameDFA.py # Main DFA logic with input validation & simulation
-│ └── room_input.txt # Manual input for testing DFA
-│
-├── DFA_simple/ # Minimal DFA setup
-│ ├── autom.py # Basic DFA simulator with hardcoded logic
-│ ├── autom.txt # DFA configuration
-│ └── input.txt # DFA input
-│
-├── Graph/ # (Optional/Unlinked) 
-│ ├── graph.in # Input file (usage unclear)
-│ ├── graph.out # Output file
-│ └── graph.py # Graph-related processing 
-│
-├── NFA/ # Nondeterministic Finite Automaton with ε-transitions
-│ ├── automNFA.py # Parser and emulator for NFA
-│ ├── automNFA.txt # NFA configuration
-│ ├── emulator_NFA.py # Entry point for running the NFA
-│ ├── inputNFA.txt # Input string for NFA
-│ └── NFA_rez.txt # NFA simulation results
-│
-├── Turing/ # Turing Machine simulator
-│ ├── autom_turing.py # Turing machine parser & emulator
-│ ├── emulator_turing.py# Entry point for running the Turing Machine
-│ └── turing_rules.txt # Turing machine rules, states, transitions
-│
-└── .idea/, pycache/ # IDE and build artifacts (can be ignored)
+<pre lang="markdown"><code>```text LbForm&Autom/ ├── DFA_room/ # DFA simulation in a room-based game context │ ├── emulator.py # Entry point: user chooses manual/random execution │ ├── map.txt # Output log for DFA results │ ├── random_input.py # Random input generator for DFA game │ ├── room_autom.txt # Configuration file (states, transitions, etc.) │ ├── room_gameDFA.py # Main DFA logic with input validation & simulation │ └── room_input.txt # Manual input for testing DFA │ ├── DFA_simple/ # Minimal DFA setup │ ├── autom.py # Basic DFA simulator with hardcoded logic │ ├── autom.txt # DFA configuration │ └── input.txt # DFA input │ ├── Graph/ # (Optional/Unlinked) Possibly related to graph processing │ ├── graph.in # Input file (usage unclear) │ ├── graph.out # Output file │ └── graph.py # Graph-related processing │ ├── NFA/ # Nondeterministic Finite Automaton with ε-transitions │ ├── automNFA.py # Parser and emulator for NFA │ ├── automNFA.txt # NFA configuration │ ├── emulator_NFA.py # Entry point for running the NFA │ ├── inputNFA.txt # Input string for NFA │ └── NFA_rez.txt # NFA simulation results │ ├── Turing/ # Turing Machine simulator │ ├── autom_turing.py # Turing machine parser & emulator │ ├── emulator_turing.py# Entry point for running the Turing Machine │ └── turing_rules.txt # Turing machine rules, states, transitions │ └── .idea/, __pycache__/ # IDE and build artifacts (can be ignored) ```</code></pre>
 
 ---
 
